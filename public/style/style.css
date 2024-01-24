@@ -56,9 +56,9 @@ body {
     transform: scale(0.97);
     transition: transform .7s;
     box-shadow: 1px 1px 0 rgba(0, 0, 0, .9);
-    -webkit-box-shadow: 1px -1px 20px 17px rgba(174, 97, 2, 0.188);
-    -moz-box-shadow: 1px -1px 20px 17px rgba(99, 55, 0, 0.751);
-    box-shadow: 1px -1px 20px 17px rgba(93, 51, 1, 0.818);
+    -webkit-box-shadow: 1px -1px 20px 17px rgba(145, 21, 187, 0.662);
+    -moz-box-shadow: 1px -1px 20px 17px rgba(98, 28, 160, 0.751);
+    box-shadow: 1px -1px 20px 17px rgba(103, 24, 145, 0.818);
 }
 
 .front-face,
@@ -68,7 +68,7 @@ body {
     padding: 5px;
     position: absolute;
     border-radius: 5px;
-    background: #cc7d1cf3;
+    background: #0a9792e4;
     backface-visibility: hidden;
     background-image: initial;
 }

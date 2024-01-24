@@ -4,6 +4,7 @@
     /* box-sizing: border-box; */
   }
 body {
+    width: 100vw;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -16,13 +17,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     /* background-color: blueviolet; */
 }
 .bottom>img{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    filter: brightness(1);
 }
 
 .top {
